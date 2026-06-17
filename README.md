@@ -153,7 +153,7 @@ The primary objectives of this project were:
 
 ## Author
 
-**Anmol Garg**  
+**Anmol Goel**  
 Final Year B.Tech (Computer Science Engineering)
 
 GitHub: https://github.com/Anmol685
