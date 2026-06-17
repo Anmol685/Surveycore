@@ -1,0 +1,6 @@
+{
+  "name": "SurveyCore",
+  "description": "Comprehensive customer satisfaction (CSAT, NPS) survey campaign builder, dynamic logic designer, template library, and analytics dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
